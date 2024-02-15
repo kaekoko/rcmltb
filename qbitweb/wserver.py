@@ -773,7 +773,7 @@ def set_priority(id_):
 
 @app.route("/")
 def homepage():
-    return "<h1>Rcmltb Torrent Selection/h1>"
+    return "<h1>Movies Master</h1>"
 
 
 @app.errorhandler(Exception)
